@@ -19,25 +19,20 @@
   },
   {
     "userId": 1,
-    "id": 3,
+    "id": 4,
     "title": "Monika",
     "body": "https://user-images.githubusercontent.com/76609870/195977562-6f1cc552-52ad-456c-9557-b2f42d52722e.jpg"
   },
   {
     "userId": 1,
-    "id": 3,
+    "id": 5,
     "title": "Anamika",
     "body": "https://user-images.githubusercontent.com/76609870/195977554-14e1c6d2-b2f0-42cd-add2-51aa00b62a8d.jpg"
   },
+  
   {
     "userId": 1,
-    "id": 3,
-    "title": "Rajesh",
-    "body": "https://user-images.githubusercontent.com/76609870/195977569-6ba01a14-2acc-4c60-9512-aef4c0781bc3.jpg"
-  },
-  {
-    "userId": 1,
-    "id": 3,
+    "id": 6,
     "title": "Aniket",
     "body": "https://user-images.githubusercontent.com/76609870/195977567-da99472f-fc91-426e-9c8b-d59b82f320d9.jpg"
   }
